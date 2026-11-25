@@ -2,8 +2,8 @@ class Signalbox < Formula
   desc "Lanes for parallel Claude Code sessions in git worktrees"
   homepage "https://github.com/alejandrovdev/signalbox"
   url "https://github.com/alejandrovdev/signalbox.git",
-      tag:      "v1.1.0",
-      revision: "71e2d541ece6a81cbbc42d13caa98421a2d06b10"
+      tag:      "v1.2.0",
+      revision: "9dd80cbfd688547f890e2945affd94b86fbec32e"
   head "https://github.com/alejandrovdev/signalbox.git", branch: "main"
 
   depends_on "gh"
